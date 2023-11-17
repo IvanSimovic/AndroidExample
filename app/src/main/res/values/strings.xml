@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidExample</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="new_note">New Note</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="add">Add</string>
+    <string name="post_details">Post details</string>
+    <string name="posts">Posts</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign out</string>
+    <string name="profile_edit">Profile Edit</string>
+    <string name="splashscreen_title">Ivan Simovic</string>
+    <string name="splashscreen_desc">My example project</string>
+</resources>
